@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Lanie Molinar
+## Disability Rights Advocate
+### Student Studying Software Development and Accessibility Testing
